@@ -54,13 +54,13 @@ $ npm start
 
 ## Demo Photos
 * Login Page
-![Login Page](https://github.com/DAL185/ELM-Takeaway-System/blob/master/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.17.34.png)
+![Login Page](https://github.com/DAL185/ELM-Takeaway-System/blob/master/elm/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.17.34.png)
 
 * Store Display
-![Store Display](https://github.com/DAL185/ELM-Takeaway-System/blob/master/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.05.png)
+![Store Display](https://github.com/DAL185/ELM-Takeaway-System/blob/master/elm/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.05.png)
 
 * Food Display
-![Food Display](https://github.com/DAL185/ELM-Takeaway-System/blob/master/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.16.png)
+![Food Display](https://github.com/DAL185/ELM-Takeaway-System/blob/master/elm/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.16.png)
 
 * Payment
-![Payment](https://github.com/DAL185/ELM-Takeaway-System/blob/master/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.29.png)
+![Payment](https://github.com/DAL185/ELM-Takeaway-System/blob/master/elm/ELM%20photos/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8A%E5%8D%8810.18.29.png)
